@@ -17,3 +17,4 @@ let second =arr[2]
   }else{
     console.log("Not includes")
   }
+  
