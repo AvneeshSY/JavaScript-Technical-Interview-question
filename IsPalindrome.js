@@ -8,7 +8,7 @@
 
 //  console.log("This is the output:"+ isPalindome("mum"))
 
-  const str= "mum"
+  const str= "mumsdf"
   
     let newstr=""
 
