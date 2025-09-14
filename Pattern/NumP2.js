@@ -4,7 +4,7 @@
     let ptrn=""
     for(var j=1 ;j<=i;j++)
     {
-        ptrn +=j
+        ptrn +=j+" "
     }
     console.log(ptrn)
  }

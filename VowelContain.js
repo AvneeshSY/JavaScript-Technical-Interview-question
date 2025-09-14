@@ -32,7 +32,7 @@ for (let i = 0; i < str.length; i++) {
 
     if (vowels.includes(ch)) { 
         vowelCount++;
-        // console.log("Vowel: " + ch);
+        console.log("Vowel: " + ch);
     } else {
         consonantCount++;
         // console.log("Consonant: " + ch);
