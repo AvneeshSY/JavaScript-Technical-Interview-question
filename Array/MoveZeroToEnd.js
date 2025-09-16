@@ -9,6 +9,7 @@ function moveZero(){
             result.push(arr[i])
         }
     }
+    
 
     for(let j=result.length ;j<arr.length;j++){
         result.push(0)
